@@ -3,4 +3,4 @@ regex
 tqdm
 lucid
 blobfile
-tensorflow-gpu==1.13.2
+tensorflow-gpu==2.12.0
